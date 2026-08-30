@@ -44,36 +44,30 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tonystarkw12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=26" alt="github stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonystarkw12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+<img width="49%" src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details"/>
+<img width="49%" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="stats"/>
+<br/>
+<img width="49%" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language"/>
+<img width="49%" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most commit language"/>
+<br/>
+<img width="49%" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="productive time"/>
+<img height="155" src="https://streak-stats.demolab.com?user=Tonystarkw12&theme=tokyonight&hide_border=true&short_numbers=true" alt="streak"/>
 </div>
 
-<div align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=Tonystarkw12&theme=tokyonight&hide_border=true&short_numbers=true" alt="streak"/>
-</div>
+## 📈 Contribution Chart
 
-## 🏆 Trophies
-
-<div align="center">
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Tonystarkw12&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="trophies"/>
-</div>
-
-## 📈 Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tonystarkw12&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=e0af68&area=true&area_color=283457&hide_border=true" alt="activity graph"/>
+<img width="100%" src="https://ghchart.rshah.org/7aa2f7/Tonystarkw12" alt="contribution chart"/>
 
 ## 🕹️ Featured Projects
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tonystarkw12&repo=topspin_python&theme=tokyonight&hide_border=true" alt="topspin_python"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tonystarkw12&repo=nmrsim&theme=tokyonight&hide_border=true" alt="nmrsim"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tonystarkw12&repo=xingling&theme=tokyonight&hide_border=true" alt="xingling"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tonystarkw12&repo=gdl-molecule&theme=tokyonight&hide_border=true" alt="gdl-molecule"/></td>
-  </tr>
-</table>
+| Repo | About |
+|---|---|
+| 🐍 [topspin_python](https://github.com/Tonystarkw12/topspin_python) | Python toolkit for Bruker TopSpin NMR scripting |
+| 🧪 [nmrsim](https://github.com/Tonystarkw12/nmrsim) | NMR simulation playground |
+| 🌌 [xingling](https://github.com/Tonystarkw12/xingling) | Novel + web + game monorepo (TypeScript / Bun) |
+| 🧬 [gdl-molecule](https://github.com/Tonystarkw12/gdl-molecule) | Molecular deep learning experiments |
+| 📅 [thu-meeting-booker](https://github.com/Tonystarkw12/thu-meeting-booker) | Tsinghua meeting-room auto-booking bot |
+| ⚙️ [nix-config](https://github.com/Tonystarkw12/nix-config) | Declarative Linux machine config |
 
 ## 🐍 Contribution Snake
 
