@@ -63,11 +63,11 @@
 | Repo | About |
 |---|---|
 | 🐍 [topspin_python](https://github.com/Tonystarkw12/topspin_python) | Python toolkit for Bruker TopSpin NMR scripting |
-| 🧪 [nmrsim](https://github.com/Tonystarkw12/nmrsim) | NMR simulation playground |
-| 🌌 [xingling](https://github.com/Tonystarkw12/xingling) | Novel + web + game monorepo (TypeScript / Bun) |
+| 🧪 [nmrsim](https://github.com/Tonystarkw12/nmrsim) | Lightweight NMR simulation: chemical exchange, spin coupling, multi-quantum coherence |
 | 🧬 [gdl-molecule](https://github.com/Tonystarkw12/gdl-molecule) | Molecular deep learning experiments |
+| 🔁 [cc-switch-enhanced](https://github.com/Tonystarkw12/cc-switch-enhanced) | One-line model-name switch across coding agents (aggregator-API friendly) |
+| 🌌 [xingling](https://github.com/Tonystarkw12/xingling) | Novel + web + game monorepo (TypeScript / Bun) |
 | 📅 [thu-meeting-booker](https://github.com/Tonystarkw12/thu-meeting-booker) | Tsinghua meeting-room auto-booking bot |
-| ⚙️ [nix-config](https://github.com/Tonystarkw12/nix-config) | Declarative Linux machine config |
 
 ## 🐍 Contribution Snake
 
