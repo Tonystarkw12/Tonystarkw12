@@ -44,8 +44,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tonystarkw12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=26" alt="github stats"/>
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Tonystarkw12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Tonystarkw12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=26" alt="github stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonystarkw12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
 </div>
 
 <div align="center">
@@ -66,12 +66,12 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Tonystarkw12&repo=topspin_python&theme=tokyonight&hide_border=true" alt="topspin_python"/></td>
-    <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Tonystarkw12&repo=nmrsim&theme=tokyonight&hide_border=true" alt="nmrsim"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tonystarkw12&repo=topspin_python&theme=tokyonight&hide_border=true" alt="topspin_python"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tonystarkw12&repo=nmrsim&theme=tokyonight&hide_border=true" alt="nmrsim"/></td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Tonystarkw12&repo=xingling&theme=tokyonight&hide_border=true" alt="xingling"/></td>
-    <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Tonystarkw12&repo=gdl-molecule&theme=tokyonight&hide_border=true" alt="gdl-molecule"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tonystarkw12&repo=xingling&theme=tokyonight&hide_border=true" alt="xingling"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tonystarkw12&repo=gdl-molecule&theme=tokyonight&hide_border=true" alt="gdl-molecule"/></td>
   </tr>
 </table>
 
